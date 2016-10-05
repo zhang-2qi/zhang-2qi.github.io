@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zhang-2qi, Launches Site"
+title: "第一天的blooooooooog"
 date: 2016-10-04
 ---
 
