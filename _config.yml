@@ -1,2 +1,3 @@
 name: zhangyq
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
