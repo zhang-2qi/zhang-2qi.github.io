@@ -4,4 +4,8 @@ title: "Zhang-2qi, Launches Site"
 date: 2016-10-04
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+不知道怎么了，国庆去天津回来后突然有了一种深深的疲倦感和无力感，于是我把朋友圈、空间都关了(不过也许还会有再开的一天吧)。但是总要有个人的一些东西吧，万一哪一天自己心血来潮想写点东西的时候找不到地方，这不就悲惨了。
+
+于是，我就建了这样一个网页，写一些自己的生活啊，感想啊这些感觉有点虚的东西。也许会不定期更新吧，但说不定明天就把它给扔了 笑~)
+
+还有，由于自己并不怎么会html,css,所以网页设计还可能会有大幅度更新。
